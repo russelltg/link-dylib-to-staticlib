@@ -3,12 +3,12 @@
 version = 3
 
 [[package]]
-name = "dylib"
+name = "dy"
 version = "0.1.0"
 
 [[package]]
 name = "staticlib"
 version = "0.1.0"
 dependencies = [
- "dylib",
+ "dy",
 ]

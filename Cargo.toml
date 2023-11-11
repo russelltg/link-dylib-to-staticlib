@@ -1,5 +1,3 @@
 [workspace]
-members = [
-    "dylib","staticlib"
-]
+members = ["dy", "staticlib"]
 resolver = "2"

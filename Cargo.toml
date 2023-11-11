@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "dylib","staticlib"
+]
+resolver = "2"
